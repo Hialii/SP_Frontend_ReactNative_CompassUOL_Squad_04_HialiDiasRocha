@@ -1,0 +1,57 @@
+{
+   "articles":
+      [
+         {
+            "id": 2,
+            "title": "dvfvdfdf",
+            "image": "https://i.pinimg.com/originals/c7/61/13/c761137e0189fc2a5c34dd17915c8f7d.png",
+            "url": "../html/article.html?id=1",
+            "alt": "../html/article.html",
+            "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit."
+             
+         },
+         {
+            "id": 3,
+            "title": "hnryntyujn",
+            "image": "https://i.pinimg.com/originals/c7/61/13/c761137e0189fc2a5c34dd17915c8f7d.png",
+            "url": "../html/article.html?id=2",
+            "alt": "",
+            "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit."
+         },
+         {
+            "id": 4,
+            "title": "rtyhy",
+            "image": "https://i.pinimg.com/originals/c7/61/13/c761137e0189fc2a5c34dd17915c8f7d.png",
+            "url": "../html/article.html?id=3",
+            "alt": "",
+            "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit."
+      
+         },
+         {
+            "id": 5,
+            "title": "dvfvdfdf",
+            "image": "https://i.pinimg.com/originals/c7/61/13/c761137e0189fc2a5c34dd17915c8f7d.png",
+            "url": "../html/article.html?id=1",
+            "alt": "../html/article.html",
+            "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit."
+             
+         },
+         {
+            "id": 6,
+            "title": "hnryntyujn",
+            "image": "https://i.pinimg.com/originals/c7/61/13/c761137e0189fc2a5c34dd17915c8f7d.png",
+            "url": "../html/article.html?id=2",
+            "alt": "",
+            "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit."
+         },
+         {
+            "id": 7,
+            "title": "rtyhy",
+            "image": "https://i.pinimg.com/originals/c7/61/13/c761137e0189fc2a5c34dd17915c8f7d.png",
+            "url": "../html/article.html?id=3",
+            "alt": "",
+            "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit."
+      
+         }
+      ]
+}
