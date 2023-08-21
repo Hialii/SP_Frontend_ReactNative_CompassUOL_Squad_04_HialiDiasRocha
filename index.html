@@ -3,69 +3,74 @@
 <head>
    <meta charset="UTF-8">
    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-   <title>Document</title>
+   <title>Pom Poko</title>
+
+   <script src="./dist/index.js" defer></script>
+  
+   
+   <link rel="stylesheet" href="./css/styles.css">
+   <link rel="preconnect" href="https://fonts.googleapis.com">
+   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+   <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+
 </head>
 <body>
-   <div class="container">
-      <header>
-         <h1>Nordic Rose</h1>
-         <nav>
-            <ul>
-               <li>Blog</li>
-               <li>About</li>
-               <li>Links</li>
-               <li>Projects</li>
-            </ul>
-         </nav>
+   <div>
+      <header class="header">
+         <div class="flexbox">
+            <h1 class="logo"><a href="index.html">Pom Poko</a></h1>
+            <nav class="nav">
+               <ul class="menu">
+                  <li><a href="#">Blog</a></li>
+                  <li><a href="#">About</a></li>
+                  <li><a href="#">Links</a></li>
+                  <li><a href="#">Projects</a></li>
+               </ul>
+               <div class="menu-btn"><ion-icon name="menu-outline"></ion-icon></div>
+            </nav>
+
+           
+         </div>
       </header>
 
-      <section>
-         <img src="https://i.pinimg.com/originals/c7/61/13/c761137e0189fc2a5c34dd17915c8f7d.png" alt="">
-         <h2>Lorem ipsum dolor sit</h2>
-         <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. At quasi delectus a modi nihil est doloremque aperiam dolorum, veritatis maxime alias, totam fugit vel consequatur similique accusamus nesciunt illo possimus.</p>
+   <main>
+      <section class=" pricipal">
+         <a href="./html/article.html?id=1" id="1">
+            <div class="center">
+            <img class="principal-img" src="https://www.ghibli.jp/gallery/chihiro045.jpg" alt="Spirited Away (2001)">
+            </div>
+            <div class="principal-text text">
+               <h1>Spirited Away (2001)</h1>
+               <p> totam fugit vel consequatur similique accusamus nesciunt illo.</p>
+            </div>
+         </a>
+         <div class="divider"></div>
       </section>
 
-      <section>
-         <article>
-            <h2>Lorem suscipit </h2>
-            <article>
-               <img src="https://i.pinimg.com/originals/c7/61/13/c761137e0189fc2a5c34dd17915c8f7d.png" alt="">
-               <h3>Lorem Ipsum</h3>
-               <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Eligendi earum eum vero quasi distinctio voluptate accusantium ipsam sequi praesentium error</p>
-            </article>
-            <article>
-               <img src="https://i.pinimg.com/originals/c7/61/13/c761137e0189fc2a5c34dd17915c8f7d.png" alt="">
-               <h3>Lorem Ipsum</h3>
-               <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Eligendi earum eum vero quasi distinctio voluptate accusantium ipsam sequi praesentium error</p>
-            </article>
-            <article>
-               <img src="https://i.pinimg.com/originals/c7/61/13/c761137e0189fc2a5c34dd17915c8f7d.png" alt="">
-               <h3>Lorem Ipsum</h3>
-               <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Eligendi earum eum vero quasi distinctio voluptate accusantium ipsam sequi praesentium error</p>
-            </article>
-            <article>
-               <img src="https://i.pinimg.com/originals/c7/61/13/c761137e0189fc2a5c34dd17915c8f7d.png" alt="">
-               <h3>Lorem Ipsum</h3>
-               <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Eligendi earum eum vero quasi distinctio voluptate accusantium ipsam sequi praesentium error</p>
-            </article>
-            <article>
-               <img src="https://i.pinimg.com/originals/c7/61/13/c761137e0189fc2a5c34dd17915c8f7d.png" alt="">
-               <h3>Lorem Ipsum</h3>
-               <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Eligendi earum eum vero quasi distinctio voluptate accusantium ipsam sequi praesentium error</p>
-            </article>
-            <article>
-               <img src="https://i.pinimg.com/originals/c7/61/13/c761137e0189fc2a5c34dd17915c8f7d.png" alt="">
-               <h3>Lorem Ipsum</h3>
-               <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Eligendi earum eum vero quasi distinctio voluptate accusantium ipsam sequi praesentium error</p>
-            </article>
-         </article>
-      </section>
+      
 
-      <footer>
-         <h2>lorem ipsum</h2>
-         <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Molestiae, repellat aut. Nisi, consectetur consequuntur, sapiente soluta nobis exercitationem corporis iure repellendus, quisquam aspernatur provident. Dolorem quod voluptate dignissimos aperiam reiciendis.</p>
-         <a href="">Linkedin</a>
-         <a href="">GitHub</a>
+      <section id="article" class="container main-section">
+            <h1 class="article-title">All articles</h1>
+            <!-- <article>
+               <a href="">
+                  <img class="article-img" src="https://i.pinimg.com/originals/c7/61/13/c761137e0189fc2a5c34dd17915c8f7d.png" alt="">
+                  <div class="article-text text">
+                     <h3>Lorem Ipsum</h3>
+                     <p> Eligendi earum eum vero quasi distinctio voluptate accusantium ipsam sequi praesentium error</p>
+                  </div>
+               </a>      
+            </article> -->
+            <article>
+      </section>
+   </main>
+
+      <footer class="container" id="footer">
+         <h2>Pom Poko</h2>
+         <p>Lorem  sapiente soluta. Dolorem quod voluptate dignissimos aperiam reiciendis.</p>
+        <div class="socials">
+           <a href="https://www.linkedin.com/in/hialirocha/" target="_blank">Linkedin</a>
+           <a href="https://github.com/Hialii" target="_blank">GitHub</a>
+        </div>
          <p>
             POWER RANGERS ©️ 2023 <br>
             by Hiali Dias Rocha
@@ -73,4 +78,5 @@
       </footer>
    </div>
 </body>
+<script type="module" src="https://unpkg.com/ionicons@7.1.0/dist/ionicons/ionicons.esm.js"></script>
 </html>

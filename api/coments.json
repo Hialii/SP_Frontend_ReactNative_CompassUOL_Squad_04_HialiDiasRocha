@@ -3,61 +3,59 @@
    [
     {
       "id": 1,
-      "img": "https://i.pinimg.com/originals/c7/61/13/c761137e0189fc2a5c34dd17915c8f7d.png",
-      "alt": "",
-      "text": "Lorem ipssid dkjsdkj jsdkfkdf dfjjjj djlsdkjalsdjadsjfkdf djkfvjdf vjfv",
-      "name": "Miguel",
+      "img": "https://randomuser.me/api/portraits/women/89.jpg",
+      "alt": "Author image",
+      "text": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Autem cumque debitis vel fugiat aut necessitatibus eius eum ipsa iure voluptatem beatae porro, similique consectetur facere amet veniam harum commodi sit.",
+      "name": "Amanda Stuart",
       "data": "April 07, 2023"
     },
     {
       "id": 2,
-      "img": "https://i.pinimg.com/originals/c7/61/13/c761137e0189fc2a5c34dd17915c8f7d.png",
-      "alt": "",
-      "text": "Lorem ipssid dkjsdkj jsdkfkdf dfjjjj djlsdkjalsdjadsjfkdf djkfvjdf vjfv",
-      "name": "Zendaya",
+      "img": "https://randomuser.me/api/portraits/men/72.jpg",
+      "alt": "Author image",
+      "text": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Autem cumque debitis vel fugiat aut necessitatibus eius eum ipsa iure voluptatem beatae porro, similique consectetur facere amet veniam harum commodi sit.",
+      "name": "Milles G.",
       "data": "April 10, 2020"
     },
     {
       "id": 3,
-      "img": "https://i.pinimg.com/originals/c7/61/13/c761137e0189fc2a5c34dd17915c8f7d.png",
-      "alt": "",
-      "text": "Lorem ipssid dkjsdkj jsdkfkdf dfjjjj djlsdkjalsdjadsjfkdf djkfvjdf vjfv",
-      "name": "Ana Beatriz",
-      "data": "June 20, 2021"
+      "img": "https://randomuser.me/api/portraits/men/72.jpg",
+      "alt": "Author image",
+      "text": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Autem cumque debitis vel fugiat aut necessitatibus eius eum ipsa iure voluptatem beatae porro, similique consectetur facere amet veniam.",
+      "name": "Milles G.",
+      "data": "July 10, 2021"
     },
     {
       "id": 4,
-      "img": "https://i.pinimg.com/originals/c7/61/13/c761137e0189fc2a5c34dd17915c8f7d.png",
-      "alt": "",
-      "text": "Lorem ipssid dkjsdkj jsdkfkdf dfjjjj djlsdkjalsdjadsjfkdf djkfvjdf vjfv",
-      "name": "Miguel",
-      "data": "April 07, 2023"
+      "img": "https://randomuser.me/api/portraits/women/8.jpg",
+      "alt": "Author image",
+      "text": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Autem cumque debitis vel fugiat aut necessitatibus eius eum ipsa iure voluptatem beatae porro, similique consectetur facere amet veniam harum commodi.",
+      "name": "Shannon Barnes",
+      "data": "Mach 05, 2022"
     },
     {
       "id": 5,
-      "img": "https://i.pinimg.com/originals/c7/61/13/c761137e0189fc2a5c34dd17915c8f7d.png",
-      "alt": "",
-      "text": "Lorem ipssid dkjsdkj jsdkfkdf dfjjjj djlsdkjalsdjadsjfkdf djkfvjdf vjfv",
-      "name": "Zendaya",
-      "data": "April 10, 2020"
+      "img": "https://randomuser.me/api/portraits/women/91.jpg",
+      "alt": "Author image",
+      "text": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Autem cumque debitis vel fugiat aut necessitatibus eius eum ipsa iure voluptatem beatae porro, similique consectetur facere amet veniam harum commodi sit.",
+      "name": "Constance Hawkins",
+      "data": "September 15, 2020"
     },
     {
       "id": 6,
-      "img": "https://i.pinimg.com/originals/c7/61/13/c761137e0189fc2a5c34dd17915c8f7d.png",
-      "alt": "",
-      "text": "Lorem ipssid dkjsdkj jsdkfkdf dfjjjj djlsdkjalsdjadsjfkdf djkfvjdf vjfv",
-      "name": "Ana Beatriz",
-      "data": "June 20, 2021"
+      "img": "https://randomuser.me/api/portraits/women/9.jpg",
+      "alt": "Author image",
+      "text": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Autem cumque debitis vel fugiat aut necessitatibus eius eum ipsa iure voluptatem beatae porro, similique consectetur facere amet veniam.",
+      "name": "Kay Flores",
+      "data": "September 26, 2020"
     },
     {
       "id": 7,
-      "img": "https://i.pinimg.com/originals/c7/61/13/c761137e0189fc2a5c34dd17915c8f7d.png",
-      "alt": "",
-      "text": "Lorem ipssid dkjsdkj jsdkfkdf dfjjjj djlsdkjalsdjadsjfkdf djkfvjdf vjfv",
-      "name": "Ana Beatriz",
-      "data": "June 20, 2021"
+      "img": "https://randomuser.me/api/portraits/men/37.jpg",
+      "alt": "Author image",
+      "text": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Autem cumque debitis vel fugiat aut necessitatibus eius eum ipsa iure voluptatem beatae porro, similique consectetur facere amet veniam harum commodi sit.",
+      "name": "Tom Peck",
+      "data": "January 20, 2023"
     }
-
-
    ]
 }
